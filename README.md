@@ -31,18 +31,15 @@ ___
 * adding a audio to react with the players
 __
 # the Developing stepes:
-Starting with a simple HTML file and basic CSS.
-Dividing my game into steps .
-start with a o for the first click .
-switching between X and O.
-Recognise the winner and print it .
-Get the score for each player and display it underneath the board.
-restarting the game without refresh the page it self .
-Adding audio when clicking on the divs and if someone wins .
+* Starting with a simple HTML file and basic CSS.
+* Dividing my game into steps .
+* start with a o for the first click .
+*switching between X and O.
+* Recognise the winner and print it .
+* Get the score for each player and display it underneath the board.
+* restarting the game without refresh the page it self .
+* Adding audio when clicking on the divs and if someone wins .
 ____
-
-
-
 
 
 # Interfaces :
