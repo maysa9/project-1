@@ -1,3 +1,5 @@
+const audioX = new Audio('../sounds/bill.wav');
+const audiow = new Audio('../sounds/clapping.wav');
 
 let count = 1;
 let cur= 0;
@@ -5,14 +7,15 @@ let xwin =0 ;
 let owin =0;
 let tie=0;
 winner=function(){
-
-    if ( cur ){
+    if ( cur === true  ){
+        audiow.play();
     $('.box > div').off()
     $(".winner").html("<h2>you are the winner x</h2>");
     xwin++
     $(".x").html(xwin);
     }
     else {
+        audiow.play();
     $('.box > div').off()
     $(".winner").html("<h2>you are the winner o</h2>");
     owin++
@@ -21,6 +24,7 @@ winner=function(){
 }
 
 function game(event) {
+    audioX.play();
     if (count % 2 === 0){
         $(event.target).text('x')
         cur= true; 
@@ -66,4 +70,10 @@ function logReset() {
     
 }
 $('.box > div').on('click', game)
+
+const reset =function (){
+    location.reload()
+    }
+
+$("button").click(reset)
 
