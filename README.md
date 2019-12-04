@@ -5,50 +5,69 @@
 Introduction
 
 
-its a game Requires 2 player 
-and i did some Functional usig JS 
-blah blah blah 
+its a tic tac toe game Requires 2 player 
+and a counter to count the Winning and tie Rounds
 
-<!-- <Unordered list> -->
+# my Project Deployment 
 
+
+
+
+
+# the Languages used in the Project :
 * HTML
 * CSS 
 * JS 
 * Jquery
+* sound 
+* animated 
 
 ___
+# Wireframes and Stories :
 
 
-1. one
-2. two
-3. three
-4. four 
+
+
+
+
+___
+# the Developing stepes:
+
+____
+
 
 [google](https://www.google.com/?hl=ar.)
 
+
+# Interfaces :
+
+# game Bored 
+![gameBored](images/bored.png)
+
+![Wireframe](images/bored.png)
 ___
-![Wireframe](images/logo.png)
-___
 
-### reset Function
+### print the winner name using Jquery Function
 
+```js 
+winner=function(){
+    if ( cur === true  ){
+        audiow.play();
+    $('.box > div').off()
+    $(".winner").html("<h2>you are the winner x</h2>");
+    xwin++
+    $(".x").html(xwin);
+    }
+    else {
+        audiow.play();
+    $('.box > div').off()
+    $(".winner").html("<h2>you are the winner o</h2>");
+    owin++
+    $(".o").html(owin);
+} 
 ```
-
-kgbhrehberhgurhbvjsrghyvhrg
-tntyn
-thnh
-nthnthnrtynt
-tnthnh
-```
-
-``` js 
-
-const  jfvjf(fvdfb);
+# Difficulties :
 
 
-```
-```
-js
-css 
-html 
-```
+# Unsolved and Uncomplicated Features :
+
