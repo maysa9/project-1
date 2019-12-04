@@ -1,5 +1,5 @@
-const audioX = new Audio('../sounds/bill.wav');
-const audiow = new Audio('../sounds/clapping.wav');
+const audioX = new Audio('sounds/bill.wav');
+const audiow = new Audio('sounds/clapping.wav');
 
 let count = 1;
 let cur= 0;
