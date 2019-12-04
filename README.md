@@ -42,7 +42,7 @@ ____
 # Interfaces :
 
 # game Bored 
-![gameBored](images/bored.png)
+![gameBored](images/bored.png | width=48)
 
 ![Wireframe](images/bored.png)
 ___
