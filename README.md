@@ -2,49 +2,54 @@
 # Tic tac toe game project 
 
 
-Introduction
+# Introduction
 
 
-its a tic tac toe game Requires 2 player 
-and a counter to count the Winning and tie Rounds
-
+* its a tic tac toe game Requires 2 players 
+* and a counter to count the Winning and tie Rounds
+* and printing the results . 
 # my Project Deployment 
 
 
 
 
 
-# the Languages used in the Project :
+# the tools used in the Project :
 * HTML
 * CSS 
 * JS 
 * Jquery
-* sound 
-* animated 
+* [sound](http://soundbible.com/tags-click.html)
+* [animated](https://daneden.github.io/animate.css/)
 
 ___
 # Wireframes and Stories :
 
-
-
-
-
-
-___
+* counting the score for each player.
+* play reset button to play a new game.
+* When the score apper the click should be off 
+* adding a audio to react with the players
+__
 # the Developing stepes:
-
+* Starting with a simple HTML file and basic CSS.
+* Dividing my game into steps .
+* start with a o for the first click .
+*switching between X and O.
+* Recognise the winner and print it .
+* Get the score for each player and display it underneath the board.
+* restarting the game without refresh the page it self .
+* Adding audio when clicking on the divs and if someone wins .
 ____
-<!-- [google](https://www.google.com/?hl=ar.) -->
 
 
 # Interfaces :
 
 # game Bored 
-<img src="images/bored.png" alt="Kitten"
-	title="A cute kitten" width="100" height="100" />
-<!-- ![gameBored|100x100, 20%](images/bored.png) -->
-
-<!-- ![Wireframe](images/bored.png) -->
+<img src="images/bored.png" alt="bored"
+	title="game bored" width="400" height="400" />
+```    
+![Wireframe](images/bored.png)
+```
 ___
 
 ### print the winner name using Jquery Function
@@ -67,7 +72,11 @@ winner=function(){
 } 
 ```
 # Difficulties :
-
+how to switch between x and o logically 
 
 # Unsolved and Uncomplicated Features :
+* adding name and choose x or o feature 
+* adding playing against computer using AI 
+* adding timmer to the game 
+
 
