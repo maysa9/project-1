@@ -34,17 +34,17 @@ ___
 # the Developing stepes:
 
 ____
-
-
-[google](https://www.google.com/?hl=ar.)
+<!-- [google](https://www.google.com/?hl=ar.) -->
 
 
 # Interfaces :
 
 # game Bored 
-![gameBored](images/bored.png)
+<img src="images/bored.png" alt="Kitten"
+	title="A cute kitten" width="100" height="100" />
+<!-- ![gameBored|100x100, 20%](images/bored.png) -->
 
-![Wireframe](images/bored.png)
+<!-- ![Wireframe](images/bored.png) -->
 ___
 
 ### print the winner name using Jquery Function

@@ -6,9 +6,10 @@ let cur= 0;
 let xwin =0 ;
 let owin =0;
 let tie=0;
+// winnig printing function 
 winner=function(){
     if ( cur === true  ){
-        audiow.play();
+        audiow.play();//clapping audio
     $('.box > div').off()
     $(".winner").html("<h2>you are the winner x</h2>");
     xwin++
@@ -24,7 +25,7 @@ winner=function(){
 }
 
 function game(event) {
-    audioX.play();
+    audioX.play();// ring bill audio
     if (count % 2 === 0){
         $(event.target).text('x')
         cur= true; 
