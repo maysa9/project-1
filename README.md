@@ -43,7 +43,7 @@ ____
 
 # game Bored 
 <img src="images/bored.png" alt="Kitten"
-	title="A cute kitten" width="100" height="100" />
+	title="A cute kitten" width="200" height="200" />
 ```    
 ![Wireframe](images/bored.png)
 ```
