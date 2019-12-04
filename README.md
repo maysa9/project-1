@@ -25,14 +25,20 @@ and a counter to count the Winning and tie Rounds
 ___
 # Wireframes and Stories :
 
-
-
-
-
-
-___
+* counting the score for each player.
+* play reset button to play a new game.
+* When the score apper the click should be off 
+* adding a audio to react with the players
+__
 # the Developing stepes:
-
+Starting with a simple HTML file and basic CSS.
+Dividing my game into steps .
+start with a o for the first click .
+switching between X and O.
+Recognise the winner and print it .
+Get the score for each player and display it underneath the board.
+restarting the game without refresh the page it self .
+Adding audio when clicking on the divs and if someone wins .
 ____
 
 
@@ -69,7 +75,8 @@ winner=function(){
 } 
 ```
 # Difficulties :
-
+How to determine the correct boxs like when boxs matched or not.
 
 # Unsolved and Uncomplicated Features :
-
+add option if the user want to play with (X or O) or with images or their names.
+add a timer
