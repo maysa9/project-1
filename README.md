@@ -42,9 +42,11 @@ ____
 # Interfaces :
 
 # game Bored 
-![gameBored](images/bored.png | width=48)
-
+<img src="images/bored.png" alt="Kitten"
+	title="A cute kitten" width="100" height="100" />
+```    
 ![Wireframe](images/bored.png)
+```
 ___
 
 ### print the winner name using Jquery Function
