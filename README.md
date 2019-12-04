@@ -5,9 +5,9 @@
 # Introduction
 
 
-its a tic tac toe game Requires 2 players 
-and a counter to count the Winning and tie Rounds
-and printing the results . 
+* its a tic tac toe game Requires 2 players 
+* and a counter to count the Winning and tie Rounds
+* and printing the results . 
 # my Project Deployment 
 
 
@@ -78,8 +78,8 @@ winner=function(){
 how to switch between x and o logically 
 
 # Unsolved and Uncomplicated Features :
-adding name and choose x or o feature 
-adding playing against computer using AI 
-adding timmer to the game 
+* adding name and choose x or o feature 
+* adding playing against computer using AI 
+* adding timmer to the game 
 
 
