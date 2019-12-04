@@ -2,25 +2,25 @@
 # Tic tac toe game project 
 
 
-Introduction
+# Introduction
 
 
-its a tic tac toe game Requires 2 player 
+its a tic tac toe game Requires 2 players 
 and a counter to count the Winning and tie Rounds
-
+and printing the results . 
 # my Project Deployment 
 
 
 
 
 
-# the Languages used in the Project :
+# the tools used in the Project :
 * HTML
 * CSS 
 * JS 
 * Jquery
-* sound 
-* animated 
+* [sound](http://soundbible.com/tags-click.html)
+* [animated](https://daneden.github.io/animate.css/)
 
 ___
 # Wireframes and Stories :
@@ -42,13 +42,13 @@ Adding audio when clicking on the divs and if someone wins .
 ____
 
 
-[google](https://www.google.com/?hl=ar.)
+
 
 
 # Interfaces :
 
 # game Bored 
-<img src="images/bored.png" alt="Kitten"
+<img src="images/bored.png" alt="bored"
 	title="game bored" width="400" height="400" />
 ```    
 ![Wireframe](images/bored.png)
@@ -75,8 +75,11 @@ winner=function(){
 } 
 ```
 # Difficulties :
-How to determine the correct boxs like when boxs matched or not.
+how to switch between x and o logically 
 
 # Unsolved and Uncomplicated Features :
-add option if the user want to play with (X or O) or with images or their names.
-add a timer
+adding name and choose x or o feature 
+adding playing against computer using AI 
+adding timmer to the game 
+
+
