@@ -49,7 +49,7 @@ ____
 
 ___
 
-### print the winner name using Jquery Function
+### print the winner name :
 
 ```js 
 winner=function(){
