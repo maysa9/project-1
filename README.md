@@ -10,8 +10,7 @@
 * and printing the results . 
 # my Project Deployment 
 
-
-
+https://maysa9.github.io/project-1/
 
 
 # the tools used in the Project :
@@ -42,14 +41,12 @@ __
 ____
 
 
-# Interfaces :
+# Interface :
 
 # game Bored 
 <img src="images/bored.png" alt="bored"
 	title="game bored" width="400" height="400" />
-```    
-![Wireframe](images/bored.png)
-```
+
 ___
 
 ### print the winner name using Jquery Function
