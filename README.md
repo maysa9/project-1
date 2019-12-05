@@ -28,12 +28,13 @@ ___
 * play reset button to play a new game.
 * When the score apper the click should be off 
 * adding a audio to react with the players
-__
+___
+
 # the Developing stepes:
 * Starting with a simple HTML file and basic CSS.
 * Dividing my game into steps .
 * start with a o for the first click .
-*switching between X and O.
+* switching between X and O.
 * Recognise the winner and print it .
 * Get the score for each player and display it underneath the board.
 * restarting the game without refresh the page it self .
@@ -75,5 +76,7 @@ how to switch between x and o logically
 * adding name and choose x or o feature 
 * adding playing against computer using AI 
 * adding timmer to the game 
+* taking the css to the next level 
+
 
 
